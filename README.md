@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas 😎</h1>
+<h1 align="center">Olá, eu sou o Lucas 😀</h1>
 
 <div align="center">
   <a href="https://github.com/LucasCr95">

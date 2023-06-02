@@ -1,12 +1,12 @@
+<h1 align="center">Olá, eu sou o Lucas 😎</h1>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <a href="https://github.com/LucasCr95">
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCr95&show_icons=true&theme=transparent&rank_icon=github">
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCr95&layout=donut&theme=transparent">
+  </a>
+</div>
+  
 
 
 

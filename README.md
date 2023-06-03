@@ -37,32 +37,4 @@
   <a href="https://www.instagram.com/_lucas.crr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**LucasCr95/LucasCr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho como vendedor.
-- 🌱 Desenvolvimento Front-End.
-- 👯 I’m looking to collaborate on ...
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![snake gif](https://github.com/LucasCr95/LucasCr95/blob/output/github-contribution-grid-snake.svg)

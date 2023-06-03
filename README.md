@@ -37,5 +37,4 @@
   <a href="https://www.instagram.com/_lucas.crr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
 
-
-![snake gif](https://github.com/LucasCr95/LucasCr95/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasCr95/LucasCr95/blob/output/github-contribution-grid-snake.svg)

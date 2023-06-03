@@ -21,7 +21,6 @@
 ##
 
 <div style="display: inline_block">
-  <h3>Conhecimentos:</h3>
   
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-html5.svg" width="30">
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-css3.svg" width="30">
@@ -34,7 +33,6 @@
 ##
 
 <div style="display:inline_block">
-  <h3>Contatos:</h3>
   <a href="mailto:lucas.crr95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucascr95/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/_lucas.crr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

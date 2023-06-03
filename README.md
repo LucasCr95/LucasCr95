@@ -23,9 +23,12 @@
 <div style="display: inline_block">
   <h3>Conhecimentos:</h3>
   
-  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/css3-original.svg" width="30">
-  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/html5-original.svg" width="30">
-  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/sass-original.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-html5.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-css3.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-sass.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-js.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-ps.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-xd.svg" width="30">
 </div>  
 
 ##

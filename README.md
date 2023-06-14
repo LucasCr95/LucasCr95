@@ -12,7 +12,6 @@
 <div style="display: inline_block">
   <img align="right" src="https://github.com/LucasCr95/Arquivos/blob/main/img/img-me.png" width="140">
   
-  - 🔭 Vendedor de calçados.
   - 🌱 Estudando Front-End.
   - 📚 Cursando Análise e Desenvolvimento de Sistemas.
   - 🚀 Sempre em busca da evolução.

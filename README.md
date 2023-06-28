@@ -25,6 +25,7 @@
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-css3.svg" width="30">
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-sass.svg" width="30">
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-js.svg" width="30">
+  <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-react.svg" width="30">
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-ps.svg" width="30">
   <img src="https://github.com/LucasCr95/Arquivos/blob/main/img/icon-xd.svg" width="30">
 </div>  
